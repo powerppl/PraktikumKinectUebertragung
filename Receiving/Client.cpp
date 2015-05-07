@@ -11,6 +11,7 @@ receiver(recv)
 	}
 }
 
+
 int Client::connectToServer(char* serveraddress, char* port)
 {
 	struct addrinfo *result = NULL,
