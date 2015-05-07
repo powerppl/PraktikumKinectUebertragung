@@ -13,6 +13,7 @@
   <ItemGroup>
     <ClCompile Include="BufferedPrintReceiver.cpp" />
     <ClCompile Include="Client.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="PrintReceiver.cpp" />
     <ClCompile Include="Receiver.cpp" />
   </ItemGroup>
