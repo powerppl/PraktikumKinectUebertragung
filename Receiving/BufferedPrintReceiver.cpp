@@ -9,6 +9,7 @@ BufferedPrintReceiver::BufferedPrintReceiver()
 
 BufferedPrintReceiver::~BufferedPrintReceiver()
 {
+	
 }
 
 int BufferedPrintReceiver::useData(char* recvbuf){
